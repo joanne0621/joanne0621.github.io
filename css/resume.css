@@ -22,7 +22,7 @@ h4,
 h5,
 h6 {
   font-family: 'Noto Sans TC', sans-serif; 
-  text-transform: uppercase;
+  text-transform: none;
 }
 
 h1 {
