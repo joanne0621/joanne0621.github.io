@@ -5,17 +5,15 @@
  */
 
 body {
-  font-family: 'Noto Sans TC', sans-serif; 
-}
+  font-family: 'Noto Sans TC', sans-serif;
+ }
 
 @media (min-width: 992px) {
-  body {
-  font-family: 'Noto Sans TC', sans-serif;}
   body {
     padding-top: 0;
     padding-left: 17rem;
   }
-}
+
 
 h1,
 h2,
