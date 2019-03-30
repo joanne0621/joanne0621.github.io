@@ -29,4 +29,8 @@ h1 .text-primary {
 a {
 	color:#ed8200;
 }
-
+.subheading mb-5{
+    text-primary{
+    color:#147800
+}
+}
